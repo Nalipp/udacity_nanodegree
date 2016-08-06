@@ -1,0 +1,6 @@
+I am having a difficult time finding engaging materials that are the appropriate level.
+The great thing about Ruby is there are so many materials but sometimes seems they are
+geared to that absolute beginner or jump to a level where there is a high expectation of
+experience. I am still working to bridge the gap between learning ruby syntax and writing
+useful programs. Living in South Korea can be difficult to find others to learn with. I
+have met quite a few programers here but only one who works with Ruby.

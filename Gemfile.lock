@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    artii (2.1.1)
+    colorize (0.7.7)
+    colorizr (0.0.2)
+    udacicharts (0.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  artii (= 2.1.1)
+  colorize (= 0.7.7)
+  colorizr
+  udacicharts (= 0.0.4)
+
+BUNDLED WITH
+   1.10.6

@@ -1,0 +1,22 @@
+def start
+  puts instructions
+end
+
+def instructions
+  puts "**************************************************"
+  puts "********* WELCOME TO 'MAKE A TODO LIST'***********"
+  puts "**************************************************"
+  puts "--------------------------------------------------"
+  puts "---      OPTIONS                COMMANDS       ---"
+  puts "--------------------------------------------------"
+  puts "--- instructions       :  instructions         ---"
+  puts "--- new list           :  new_list(title)      ---"
+  puts "--- add item           :  add_item(description)---"
+  puts "--- print list         :  print_list           ---"
+  puts "--- delete item        :  delete(number)       ---"
+  puts "--- mark as complete   :  complete(number)     ---"
+  puts "--- unmark as complete :  uncomplete(number)   ---"
+  puts "--- update list name   :  update_title(title)  ---"
+  puts "**************************************************"
+end
+start
